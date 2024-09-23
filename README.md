@@ -19,6 +19,6 @@ Make sure to install the required dependencies by running the following command:
 
 ```bash
 npm install
-
+```
 ### 2. Firebase Configuration
 Add your Firebase project configuration in the firebaseConfig object located in the main file (e.g., app.js or similar). You can obtain this configuration from your Firebase Console.
